@@ -5,6 +5,7 @@ I'm a Programmer who cares about.
 - User Privacy 🔒 
 - Innovation 💡
 - Editor Color Theme (just kidding :D) 
+And also, I have
 
 So, wake up!
 Follow the white rabbit 🐇
