@@ -1,12 +1,11 @@
-# Hello everyone.
-
-I'm a Programmer who cares about.
-- User experience 🔍   
-- User Privacy 🔒 
-- Innovation 💡
-- Editor Color Theme (just kidding :D) 
-And also, I have
-
-So, wake up!
-Follow the white rabbit 🐇
-[@_jimmystarling_](https://twitter.com/_jimmystarling_)
+# Hello.
+### I'm a Digital Engineer of ideas and experience. (Programmer)
+Here are some fields that I'm focusing on 🎯
+- ReactJS & Flutter(Mobile and Web) 📱💻
+- Backend scalability ⚒️
+- Programming design patterns ✏️
+- Data Analysis with Python 🔍
+##### I'm also trying to make a podcast since 2016(hope to start until 2020 ends, follow-me up on my social media)
+#### Twitter: [@_jimmystarling_](https://twitter.com/_jimmystarling_)
+#### Instagram: [@jimmy.starling](https://www.instagram.com/jimmy.starling)
+#### Twitch: [Jimmy Starling Lives](https://www.twitch.tv/jimmystarling)  
