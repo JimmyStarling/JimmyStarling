@@ -1,4 +1,4 @@
-![Personal Card](https://github.com/JimmyStarling/JimmyStarling/blob/master/digital_card.png)
+![Personal Card](https://github.com/JimmyStarling/JimmyStarling/blob/master/card.png)
 
 In this github profile there is projects using:
 - <b>Clean Architecture</b> ✏️
