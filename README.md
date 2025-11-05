@@ -1,16 +1,20 @@
-![Personal Card](https://github.com/JimmyStarling/JimmyStarling/blob/master/card.png)
+# Hi there, I'm Jimmy Starling  
 
-In this github profile there is projects using:
-- <b>Clean Architecture</b> ✏️
-	→ SOLID principles
-	→ MVC & MVVM 
-- <b>Web Development</b>
-	→ C# and ASP.NET 6.0
-	→ ReactJS 
-	→ Flutter (Mobile and Web) 📱💻
-- <b>Mobile Development</b>
- 	→ Kotlin (Android Studio)
-	→ Flutter
-  
-To see more feel free to follow social networks. 
-[Behance](https://behance.net/jimmystarling) [Twitch.TV](https://www.twitch.tv/jimmystarling), [Twitter](https://twitter.com/_jimmystarling_) [Instagram](https://www.instagram.com/jimmy.starling)
+💻 **Software-Developer** | 🎨 **Graphic Designer** | ☁️ **Cloud & Systems Explorer**  
+
+I'm passionate about creating meaningful digital experiences that connect design, technology, and people.  
+Here you’ll find my personal and collaborative projects focused on **clean architecture, scalable systems, and intuitive design.**
+
+---
+### Clean Architecture  
+SOLID principles; Hexagonal, DDD, TDD; 
+### Software Development  
+Modern, efficient, and accessible web/app solutions using:  
+- **Laravel 12+**
+- **C# with ASP.NET 6.0**  
+- **ReactJS, NextJS**
+- **Flutter, Ionic, Kotlin**
+### Data Science
+Open-source collaborations to data science, community projects, and creative experiments.
+
+For design projects, please access [Behance](https://www.behance.net/jimmystarling)
